@@ -240,3 +240,16 @@ products=[
 # enter number of students
 # name,gender,age
 # old
+
+
+# break
+# for x in range(1,11):
+#     if x==5:
+#         break
+#     print(x)
+# continue
+
+# for x in range(1,11):
+#     if x==5 or x==7:
+#         continue
+#     print(x,end=" ")
