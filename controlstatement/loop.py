@@ -145,7 +145,6 @@
 # total_active_female=0
 # total_inactive_male=0
 # total_inactive_female=0
-
 # for student in students:
 #     if student['gender']=='male':
 #         total_male+=1
@@ -195,7 +194,6 @@ products=[
 # category: laptop
 #           dell
 #           mac
-
 # category: mobile
 #           mi
 
